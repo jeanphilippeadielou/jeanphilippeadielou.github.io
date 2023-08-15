@@ -28,6 +28,19 @@ baseurl: "" # the subpath of your site
 url: "https://jeanphilippeadielou.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  jeanphilippeadielou
 
+# Fields minima uses, but are not defaulted with the jekyll new command
+# Author is the default for posts
+author: Jean-Philippe Adiélou 
+linkedin_username: jean-philippe-adiélou-80b92a152
+
+# New fields not defaulted by jekyll-new with the minima theme
+# Add a copyright. A copyright symbol and year will be added automatically
+# copyright: Company name, Inc.
+copyright: "Jean-Philippe A. LLC"
+
+# title-logo is a new field that, when used, displays a logo
+title-logo: /images/title-image.png
+
 # Build settings
 # Removed minima theme as it is now a regular theme
 # theme: minima
