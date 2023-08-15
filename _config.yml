@@ -39,7 +39,7 @@ linkedin_username: jean-philippe-adiélou-80b92a152
 copyright: "Jean-Philippe A. LLC"
 
 # title-logo is a new field that, when used, displays a logo
-title-logo: /images/title-image.png
+title-logo: /images/title-logo.png
 
 # Build settings
 # Removed minima theme as it is now a regular theme
