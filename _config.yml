@@ -21,9 +21,8 @@
 title: Jean-Philippe Adiélou
 email: jean-philippe.adielou@polymtl.ca
 description: >- # this means to ignore newlines until "baseurl:"
-  Here is my awesome descritption. Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Hi, I'm Jean-Philippe and you happen to be on my page. 
+  You will find projects as well as my profile if you want to know more about me.
 baseurl: "" # the subpath of your site
 url: "https://jeanphilippeadielou.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  jeanphilippeadielou

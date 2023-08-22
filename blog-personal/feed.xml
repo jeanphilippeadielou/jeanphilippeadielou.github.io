@@ -2,6 +2,10 @@
 ---
 <? xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-
-
+<link href="{{- site.url -}}{{- site.baseurl -}}/blog-personal/feed.xml" rel="self" type="application/atom+xml"/>
+<link href="{{- site.url -}}{{- site.baseurl -}}/blog-personal/" rel="alternate" type="text/html" />
+<updated>{{- site.time | date_to_xmlschema -}}</updated>
+<id>{{- site.url }}{{- site.baseurl -}}/blog-personal/feed.xml</id>
+<title>{{- site.title}} Personal Blog</title> 
+<subtitle>{{- site.description | strip_html | lstrip | rstrip -}}</subtitle>
 </feed>
