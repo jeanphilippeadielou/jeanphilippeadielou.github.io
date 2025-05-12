@@ -34,7 +34,6 @@ github_username:  jeanphilippeadielou
 # Fields minima uses, but are not defaulted with the jekyll new command
 # Author is the default for posts
 author: Jean-Philippe Adiélou 
-linkedin_username: jean-philippe-adiélou-80b92a152
 
 # New fields not defaulted by jekyll-new with the minima theme
 # Add a copyright. A copyright symbol and year will be added automatically
