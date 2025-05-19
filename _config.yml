@@ -6,6 +6,8 @@
 # `jekyll serve -l -H localhost`. If you change this file, please restart the 
 # server process.
 
+
+minimal_mistakes_skin    : "neon"
 # Basic Site Settings
 locale                   : "en-US"
 title                    : "Jean-Philippe Adiélou"
@@ -75,7 +77,7 @@ author:
 
 
 # Site Settings
-site_theme               : "default"
+# site_theme               : "default"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 45 
